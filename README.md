@@ -21,5 +21,5 @@ para acessar.
 
 ![image](https://github.com/elvys-cesar/UI-com-Senha-Criptografada-em-Python/assets/70537748/7793a642-85ea-4f0b-90fd-b6d8a8efad7b)
 
-O numero que aparece depois de logar e a senha criptografada, não como logar com ela.
+O numero que aparece depois de logar e a senha criptografada, não como logar com a senha criptografada.
 ![image](https://github.com/elvys-cesar/UI-com-Senha-Criptografada-em-Python/assets/70537748/a42193f6-f012-4e73-a5c7-ac19ca0c7c9d)
